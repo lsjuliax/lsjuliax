@@ -25,7 +25,7 @@ I'm a systems analysis and development and Internet Systems student at Universid
 
 ## Get in touch :coffee:
 
-- Linkedin: [Julia Sanchez](www.linkedin.com/in/julia-sanchez-8b5944180))
+- Linkedin: [Julia Sanchez](www.linkedin.com/in/julia-sanchez-8b5944180)
 
 
 
