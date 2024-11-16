@@ -1,4 +1,4 @@
-### Hi there, I'm Julia! 🩰
+### Olá, Eu sou a Julia! 🩰
 
 
 <p align="center"> 
