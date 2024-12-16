@@ -28,7 +28,7 @@
   [Ver Certificado](ude.my/UC-0c75b547-2d9d-4ac5-a8f5-74a80de99158)
 
 
-  ## Aprendizados e Objetivos:
+## Aprendizados e Objetivos:
 - Continuar aprofundando meus conhecimentos em **Machine Learning** e **Cloud Computing**.
 - Explorar novas ferramentas e tecnologias para melhorar a eficiência em projetos de IA.
 - Contribuir para projetos open-source para expandir meu portfólio.
