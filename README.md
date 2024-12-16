@@ -22,9 +22,9 @@
 
  
 ## Certificações:
-- **☁️AWS Partner: Cloud Economics Essentials Udemy** (2024) <br>
+- **☁️AWS Partner: Cloud Economics Essentials Udemy** - (2024) <br>
   [Ver Certificado](ude.my/UC-0c75b547-2d9d-4ac5-a8f5-74a80de99158)
-- **📊SQL para Análise de Dados: Do Básico ao Avançado** (2024) <br>
+- **📊SQL para Análise de Dados: Do Básico ao Avançado** - (2024) <br>
   [Ver Certificado](ude.my/UC-0c75b547-2d9d-4ac5-a8f5-74a80de99158)
 
 
