@@ -1,29 +1,41 @@
 ### Olá, Eu sou a Julia! 🩰
 
 
-<p align="center"> 
-  <img src="fb038c9d39ed13ab401512e9f87d6fa1.gif" alt="snoopy">
-</p>
+## Um pouco sobre mim:
+- 💻Sou estudante de Análise e Desenvolvimento de Sistemas e Sistemas para Internet. <br>
+- ☁️Atualmente, sou estágiaria na área de AWS Cloud, Data e Inteligência Artificial. <br> 
+- 📊Tenho uma grande paixão por aprender novos conceitos e explorar diferentes áreas da tecnologia. Gosto de ler e me aprofundar no mundo digital, sempre buscando expandir meu conhecimento.
 
-## About me:
-I'm a systems analysis and development and Internet Systems student at Universidade Augusto Motta.
 <br />
 
-## Things that i love:
-- Books 
-- Learn   
-- Gaming and exploring virtual worlds  
-<br />
+## Tecnologias e Ferramentas
 
-## Stack:
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
-<a href="https://www.w3schools.com/js/" target="_blank"><img align="left" alt="JS" width="26px" src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" /></a>
-<img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
-<br />
-<br />
+- **Linguagens de Programação**: Python, PHP, JavaScript, SQL
+- **Frameworks e Bibliotecas**:
+  - **Front-end**: HTML, CSS, Bootstrap, Ionic, Ionic Framework
+  - **Back-end**: PHP
+- **Banco de Dados**: MySQL, SAP S/4HANA, DBeaver
+- **Ferramentas de Desenvolvimento**:
+  - **IDE e Editores**: VS Code, Jupyter Notebook
+  - **Banco de Dados**: MySQL Workbench, XAMPP
+  - **Controle de Versão**: Git
 
-## Get in touch:
+ 
+## Certificações
+- **☁️AWS Partner: Cloud Economics Essentials Udemy** (2024) <br>
+  [Ver Certificado](ude.my/UC-0c75b547-2d9d-4ac5-a8f5-74a80de99158)
+- **📊SQL para Análise de Dados: Do Básico ao Avançado** (2024) <br>
+  [Ver Certificado](ude.my/UC-0c75b547-2d9d-4ac5-a8f5-74a80de99158)
+
+
+  ## Aprendizados e Objetivos
+- Continuar aprofundando meus conhecimentos em **Machine Learning** e **Cloud Computing**.
+- Explorar novas ferramentas e tecnologias para melhorar a eficiência em projetos de IA.
+- Contribuir para projetos open-source para expandir meu portfólio.
+
+
+
+## Como Me Encontrar:
 
 - Linkedin: [Julia Sanchez](www.linkedin.com/in/julia-sanchez-8b5944180)
 
