@@ -8,7 +8,7 @@
 
 <br />
 
-## Tecnologias e Ferramentas
+## Tecnologias e Ferramentas:
 
 - **Linguagens de Programação**: Python, PHP, JavaScript, SQL
 - **Frameworks e Bibliotecas**:
@@ -21,14 +21,14 @@
   - **Controle de Versão**: Git
 
  
-## Certificações
+## Certificações:
 - **☁️AWS Partner: Cloud Economics Essentials Udemy** (2024) <br>
   [Ver Certificado](ude.my/UC-0c75b547-2d9d-4ac5-a8f5-74a80de99158)
 - **📊SQL para Análise de Dados: Do Básico ao Avançado** (2024) <br>
   [Ver Certificado](ude.my/UC-0c75b547-2d9d-4ac5-a8f5-74a80de99158)
 
 
-  ## Aprendizados e Objetivos
+  ## Aprendizados e Objetivos:
 - Continuar aprofundando meus conhecimentos em **Machine Learning** e **Cloud Computing**.
 - Explorar novas ferramentas e tecnologias para melhorar a eficiência em projetos de IA.
 - Contribuir para projetos open-source para expandir meu portfólio.
