@@ -23,7 +23,7 @@
  
 ## Certificações:
 - **☁️AWS Partner: Cloud Economics Essentials Udemy** - (2024) <br>
-  [Ver Certificado](ude.my/UC-0c75b547-2d9d-4ac5-a8f5-74a80de99158)
+  [Ver Certificado]([ude.my/UC-0c75b547-2d9d-4ac5-a8f5-74a80de99158](https://www.udemy.com/certificate/UC-0c75b547-2d9d-4ac5-a8f5-74a80de99158/)
 - **📊SQL para Análise de Dados: Do Básico ao Avançado** - (2024) <br>
   [Ver Certificado](ude.my/UC-0c75b547-2d9d-4ac5-a8f5-74a80de99158)
 
@@ -38,5 +38,6 @@
 ## Como Me Encontrar:
 
 - Linkedin: [Julia Sanchez](https://www.linkedin.com/in/julia-sanchez-8b5944180/)
+- e-mail: julialeandrosanchez@gmail.com
 
 
