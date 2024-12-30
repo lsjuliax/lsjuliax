@@ -37,7 +37,6 @@
 
 ## Como Me Encontrar:
 
-- Linkedin: [Julia Sanchez](www.linkedin.com/in/julia-sanchez-8b5944180)
-
+- Linkedin: [Julia Sanchez](https://www.linkedin.com/in/julia-sanchez-8b5944180/)
 
 
